@@ -1,8 +1,6 @@
 <pre>
 {
   "_id": "haowggit",
-  "firstName": "Haowen",
-  "lastName": "Guan",
   "email": "haow.guan@gmail.com",
   "hobbies": [
       "🧗 climbing", "🏃 jogging", "🥾 hiking", "🎿 skiing", "🎉 enjoying good time with friends"
